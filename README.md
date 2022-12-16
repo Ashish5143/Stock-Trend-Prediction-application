@@ -2,16 +2,14 @@
 
 The Web Application is built using Python and Deep Learning. It is based on predictive analysis that predicts the trend or movement of stocks based on historical data or previous performance.
 
-![Screenshot (1)](https://user-images.githubusercontent.com/120575887/208050631-ca1f71a6-9542-4391-b43d-1582d76cd3ce.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/120575887/208103727-4c63e58b-1fe7-42b5-bbc3-0f42244bfefc.png)
 
-![Screenshot (2)](https://user-images.githubusercontent.com/120575887/208052218-3222f2b7-90d9-496d-9014-4f5c3a140c95.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/120575887/208103781-2d73fed4-aec1-4f2b-b0b8-6c686a4a3205.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/120575887/208052251-3757beec-ee9e-4f89-89d5-2559abcb8bda.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/120575887/208103826-9196f5af-06a3-4752-8e65-505c8dfb120d.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/120575887/208052290-22affb32-7377-4d4b-b93f-47e268cebe3a.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/120575887/208103858-0e1f63e6-9e3c-461a-8013-e2b6f34d26fb.png)
 
-![Screenshot (5)](https://user-images.githubusercontent.com/120575887/208052340-a94c0e50-7fae-4677-982e-ccca7a96fd17.png)
-
-
+![Screenshot (13)](https://user-images.githubusercontent.com/120575887/208103897-dbe2db00-cf05-4e3a-8296-536f2f7d8f9e.png)
 
 
